@@ -1,5 +1,6 @@
 <script>
-	import Stuff from '../lib/stuff.svelte';
+	import Stuff from './lib/stuff.svelte';
+	export const prerender = true;
 </script>
 
 <div class="container">
