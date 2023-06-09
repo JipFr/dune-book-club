@@ -110,10 +110,10 @@
 	}
 
 	.line {
-		width: 3px;
+		width: 2px;
 		margin-top: -8px;
 		height: calc(100% + 8px + 20px);
-		margin-left: calc(16px / 2 - 3px / 2);
+		margin-left: calc(16px / 2 - 2px / 2);
 		z-index: -1;
 		background: linear-gradient(to bottom, var(--green) var(--height), var(--gray) var(--height));
 	}
