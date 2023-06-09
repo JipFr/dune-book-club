@@ -48,33 +48,10 @@
 		let chapterStart = ch.percentageInWeek;
 		let chapterEnd = allChapters[i + 1]?.percentageInWeek || 1;
 
-		// if (chapterEnd === 1) {
-		// 	// Final chapter in week, use different calculation
-		// 	const currentWeek = weeksWithInfo.find((week) => week.weekNo === ch.weekNo);
-		// 	const thisWeekStart = currentWeek.startDate;
-		// 	const nextWeekStart =
-		// 		weeksWithInfo[weeksWithInfo.indexOf(currentWeek) + 1]?.startDate ?? new Date('1 jan 3000');
-		// 	const weekLength = nextWeekStart.getTime() - thisWeekStart.getTime();
-
-		// 	const percentageIntoWeek =
-		// 		(1 / currentWeek.chapters.length) * (currentWeek.chapters.length - 1);
-
-		// 	const chDate = new Date(thisWeekStart.getTime() + weekLength * percentageIntoWeek);
-
-		// 	chapterStart = chDate.getTime();
-		// 	chapterEnd = nextWeekStart.getTime();
-		// 	value = now.getTime();
-
-		// 	// console.log(new Date(chapterStart));
-		// 	// console.log(new Date(chapterEnd));
-		// 	// console.log(new Date(now));
-		// }
-
 		// I can't do math
 		let percentageUntilNext = (value - chapterStart) / (chapterEnd - chapterStart);
 
 		ch.percentageUntilNext = Math.min(1, Math.max(0, percentageUntilNext));
-		console.log(ch.chNo, '—', value, chapterStart, chapterEnd, ch.percentageUntilNext);
 
 		ch.hasRead = ch.percentageUntilNext > 0;
 	});
@@ -116,7 +93,7 @@
 		grid-template-columns: 16px 1fr;
 		grid-gap: 20px;
 		margin: 30px 0;
-		--gray: rgba(0, 0, 0, 0.2);
+		--gray: #bcbcbc;
 		--green: rgb(54, 137, 54);
 	}
 
@@ -138,8 +115,12 @@
 		height: calc(100% + 8px + 20px);
 		margin-left: calc(16px / 2 - 3px / 2);
 		z-index: -1;
-
 		background: linear-gradient(to bottom, var(--green) var(--height), var(--gray) var(--height));
+	}
+
+	.week .chapter:last-child .line {
+		border-radius: 10px;
+		height: 50%;
 	}
 
 	.chapter div p:first-child {
