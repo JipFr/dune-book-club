@@ -1,17 +1,19 @@
 <script>
-	import book from '../book.json';
+	// import book from '../book.json';
+	// const weeks = [
+	// 	range(1, 7),
+	// 	range(8, 15),
+	// 	range(16, 22),
+	// 	range(23, 30),
+	// 	range(31, 37),
+	// 	range(38, 43),
+	// 	range(44, 48)
+	// ];
+	// const startDate = '14 may 2023 00:00';
+	import book from '../messiah.json';
+	const weeks = [range(1, 5), range(6, 12), range(13, 19), range(20, 24)];
+	const startDate = new Date('july 16 2023 00:00');
 
-	const weeks = [
-		range(1, 7),
-		range(8, 15),
-		range(16, 22),
-		range(23, 30),
-		range(31, 37),
-		range(38, 43),
-		range(44, 48)
-	];
-
-	const startDate = '14 may 2023 00:00';
 	const now = new Date();
 
 	const weeksWithInfo = weeks.map((week, i) => {

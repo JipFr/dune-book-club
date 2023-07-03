@@ -15,7 +15,7 @@
 	<hr />
 
 	<div>
-		<p><strong>Book One</strong></p>
+		<!-- <p><strong>Book One</strong></p>
 		<p>week 1: Chapter 1-7 "A beginning..."</p>
 		<p>week 2: Chapter 8-15 "Yueh! Yueh! Yueh!"</p>
 		<p>week 3: Chapter 16-22 "Greatness is a transitory experience"</p>
@@ -24,7 +24,23 @@
 		<p>week 5: Chapter 31-37 "Prophecy and prescience"</p>
 		<p><strong>Book Three: The Prophet</strong></p>
 		<p>week 6: Chapter 38-43 "No woman, no man, no child..."</p>
-		<p>week 7: Chapter 44-48 "How often it is"</p>
+		<p>week 7: Chapter 44-48 "How often it is"</p> -->
+		<p><strong>-July 9 -</strong> Week 0; Find a copy of Dune Messiah</p>
+		<p>
+			<strong>-July 16 -</strong> Week 1; Read Prologue + Ch. 1-5 "such a rich store of myths..."
+		</p>
+		<p>
+			<strong>-July 23-</strong> Week 2; Discuss Week 1 reading, Read Ch. 6-12 "Once more the drama begins"
+		</p>
+		<p>
+			<strong>-July 30 -</strong> Week 3; Discuss Week 2 reading, Read Ch. 13-19 "I've had a bellyful
+			of the god and priest business!"
+		</p>
+		<p>
+			<strong>-August 6 -</strong> Week 4; Discuss Week 3 reading, Read Ch. 20-24 + Epilogue "Tibana
+			was an apologist for Socratic Christianity..."
+		</p>
+		<p><strong>-August 13 -</strong> Discuss Week 4's reading</p>
 	</div>
 
 	<hr />
