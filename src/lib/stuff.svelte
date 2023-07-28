@@ -11,7 +11,7 @@
 	// ];
 	// const startDate = '14 may 2023 00:00';
 	import book from '../messiah.json';
-	const weeks = [range(1, 5), range(6, 12), range(13, 19), range(20, 24)];
+	const weeks = [range(0, 5), range(6, 12), range(13, 19), range(20, 24)];
 	const startDate = new Date('july 16 2023 00:00');
 
 	const now = new Date();
