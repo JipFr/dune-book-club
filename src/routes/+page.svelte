@@ -25,7 +25,7 @@
 		<p><strong>Book Three: The Prophet</strong></p>
 		<p>week 6: Chapter 38-43 "No woman, no man, no child..."</p>
 		<p>week 7: Chapter 44-48 "How often it is"</p> -->
-		<p><strong>-July 9 -</strong> Week 0; Find a copy of Dune Messiah</p>
+		<!-- <p><strong>-July 9 -</strong> Week 0; Find a copy of Dune Messiah</p>
 		<p>
 			<strong>-July 16 -</strong> Week 1; Read Prologue + Ch. 1-5 "such a rich store of myths..."
 		</p>
@@ -40,7 +40,38 @@
 			<strong>-August 6 -</strong> Week 4; Discuss Week 3 reading, Read Ch. 20-24 + Epilogue "Tibana
 			was an apologist for Socratic Christianity..."
 		</p>
-		<p><strong>-August 13 -</strong> Discuss Week 4's reading</p>
+		<p><strong>-August 13 -</strong> Discuss Week 4's reading</p> -->
+
+		<p><strong>Week 0: Nov 5 - 11;</strong> Preparing to read</p>
+		<p>
+			<strong>Week 1: Nov 12 - 18;</strong> Read ch. 1-8 “Muad’Dib’s teachings have become the playground
+			of scholastics…”
+		</p>
+		<p>
+			<strong>Week 2: Nov 19 - 25;</strong> Discuss Week 1, Read ch. 9-15 “It is commonly reported, my
+			dear Georad…”
+		</p>
+		<p>
+			<strong>Week 3: Nov 26 - Dec </strong>2; Discuss Week 2, Read ch. 16-23 “Atrocity is
+			recognized as such by victim and perpetrator alike…”
+		</p>
+		<p>
+			<strong>Week 4: Dec 3 - 9;</strong> Discuss Week 3, Read ch. 24-32 “When I am weaker than you,
+			I ask you for freedom…”
+		</p>
+		<p>
+			<strong>Week 5: Dec 10 - 16;</strong> Discuss Week 4, Read ch. 33-40 “Above all else, the mentat
+			must be a generalist…”
+		</p>
+		<p>
+			<strong>Week 6: Dec 17 - 23;</strong> Discuss Week 5, Read ch. 41-50 “Humankind periodically goes
+			through a speedup…”
+		</p>
+		<p>
+			<strong>Week 7: Dec 24 - 30;</strong> Discuss Week 6, Read ch. 51-62 “Limits of survival are set
+			by climate…”
+		</p>
+		Dec 31: Discuss Week 7's reading (last discussion for Children of Dune)
 	</div>
 
 	<hr />

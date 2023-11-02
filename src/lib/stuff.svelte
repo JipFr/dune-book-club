@@ -1,4 +1,5 @@
 <script>
+	// ! Dune 1 
 	// import book from '../book.json';
 	// const weeks = [
 	// 	range(1, 7),
@@ -10,9 +11,24 @@
 	// 	range(44, 48)
 	// ];
 	// const startDate = '14 may 2023 00:00';
-	import book from '../messiah.json';
-	const weeks = [range(0, 5), range(6, 12), range(13, 19), range(20, 24)];
-	const startDate = new Date('july 17 2023 00:00');
+
+	// ! Messiah
+	// import book from '../messiah.json';
+	// const weeks = [range(0, 5), range(6, 12), range(13, 19), range(20, 24)];
+	// const startDate = new Date('july 17 2023 00:00');
+	
+	// ! Children
+	import book from '../children.json'
+	const startDate = new Date("nov 12 2023 00:00")
+	const weeks = [
+		range(1,8),
+		range(9,15),
+		range(16,23),
+		range(24,32),
+		range(33,40),
+		range(41,50),
+		range(51,62),
+	]
 
 	const now = new Date();
 
