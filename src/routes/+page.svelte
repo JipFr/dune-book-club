@@ -3,7 +3,7 @@
 </script>
 
 <div class="container">
-	<h1>Dune re-read progress indicator</h1>
+	<h1>God Emperor of Dune book club</h1>
 	<p>
 		Not sure what this is? Join the Dune discord. <a href="https://discord.gg/dune" target="_blank">
 			https://discord.gg/dune
