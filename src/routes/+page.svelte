@@ -1,6 +1,5 @@
 <script>
 	import Stuff from '../lib/stuff.svelte';
-	export const prerender = true;
 </script>
 
 <div class="container">
@@ -42,7 +41,7 @@
 		</p>
 		<p><strong>-August 13 -</strong> Discuss Week 4's reading</p> -->
 
-		<p><strong>Week 0: Nov 5 - 11;</strong> Preparing to read</p>
+		<!-- <p><strong>Week 0: Nov 5 - 11;</strong> Preparing to read</p>
 		<p>
 			<strong>Week 1: Nov 12 - 18;</strong> Read ch. 1-8 “Muad’Dib’s teachings have become the playground
 			of scholastics…”
@@ -71,7 +70,21 @@
 			<strong>Week 7: Dec 24 - 30;</strong> Discuss Week 6, Read ch. 51-62 “Limits of survival are set
 			by climate…”
 		</p>
-		Dec 31: Discuss Week 7's reading (last discussion for Children of Dune)
+		Dec 31: Discuss Week 7's reading (last discussion for Children of Dune) -->
+
+		<strong>Week 0: Dec 31-Jan 6</strong>; Prepare to read
+		<strong>Week 1: Jan 7-13;</strong> Ch. 1-6 - Excerpt from the speech by Hadi Benotto
+		<strong>Week 2: Jan 14-20;</strong> Ch. 7-13 - "Sometimes I indulge myself in safaris which no
+		other being may take"
+		<strong>Week 3: Jan 21-27;</strong> Ch. 14-20 - "The Duncans always think it odd that I choose
+		women for combat forces"
+		<strong>Week 4: Jan 28-Feb 3</strong>; Ch. 21-27 - "I am beginning to hate water"
+		<strong>Week 5: Feb 4-10;</strong> Ch. 28-34 - "The problem of leadership is inevitably: Who
+		will play god?"
+		<strong>Week 6: Feb 11-17;</strong> Ch. 35-41 - "Make no heroes, my father said"
+		<strong>Week 7: Feb 18-24;</strong> Ch. 42-47 - "Do you know what guerillas often say?"
+		<strong>Week 8: Feb 25-March 2</strong>; Ch. 48-54 - "What is the most immediate danger to my
+		stewardship?"
 	</div>
 
 	<hr />

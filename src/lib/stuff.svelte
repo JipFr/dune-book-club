@@ -1,5 +1,5 @@
 <script>
-	// ! Dune 1 
+	// ! Dune 1
 	// import book from '../book.json';
 	// const weeks = [
 	// 	range(1, 7),
@@ -16,19 +16,33 @@
 	// import book from '../messiah.json';
 	// const weeks = [range(0, 5), range(6, 12), range(13, 19), range(20, 24)];
 	// const startDate = new Date('july 17 2023 00:00');
-	
+
 	// ! Children
-	import book from '../children.json'
-	const startDate = new Date("nov 12 2023 00:00")
+	// import book from '../children.json'
+	// const startDate = new Date("nov 12 2023 00:00")
+	// const weeks = [
+	// 	range(1,8),
+	// 	range(9,15),
+	// 	range(16,23),
+	// 	range(24,32),
+	// 	range(33,40),
+	// 	range(41,50),
+	// 	range(51,62),
+	// ]
+
+	// ! Geod
+	import book from '../geod.json';
+	const startDate = new Date('7 jan 2024 00:00');
 	const weeks = [
-		range(1,8),
-		range(9,15),
-		range(16,23),
-		range(24,32),
-		range(33,40),
-		range(41,50),
-		range(51,62),
-	]
+		range(1, 6),
+		range(7, 13),
+		range(14, 20),
+		range(21, 27),
+		range(28, 34),
+		range(35, 41),
+		range(42, 47),
+		range(48, 54)
+	];
 
 	const now = new Date();
 
